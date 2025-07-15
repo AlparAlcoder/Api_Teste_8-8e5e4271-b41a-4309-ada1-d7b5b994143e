@@ -1,1 +1,20 @@
-# Api_Teste_8-8e5e4271-b41a-4309-ada1-d7b5b994143e
+# Api_Teste_8
+
+## Descrição
+# FastAPI JWT Authentication
+
+## Instalação
+1. Clone o repositório
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Uso
+Execute o servidor:
+```bash
+uvicorn src.main:app --reload
+```
+
+## Documentação
+Consulte a pasta `docs` para a documentação completa do projeto.
